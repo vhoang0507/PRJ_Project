@@ -65,9 +65,10 @@
   - **Rating**:  Users can rate the service by voting stars
 
 ### Screenshots of the system
-- **Login**
+- **Register**
 
-![Login](https://github.com/user-attachments/assets/65f40c88-291f-43eb-9908-6a62df14275f)
+![Login]![Register](https://github.com/user-attachments/assets/9a7e9f64-1741-413b-a634-0d1a55738d04)
+
 - **Register**
 
 ![Register](https://github.com/user-attachments/assets/2acdd241-0b4c-4df4-9fd6-bfb1df405de6)
