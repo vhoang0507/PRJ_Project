@@ -67,22 +67,33 @@
 ### Screenshots of the system
 - **Register**
 
-![Login]![Register](https://github.com/user-attachments/assets/9a7e9f64-1741-413b-a634-0d1a55738d04)
+![Register](https://github.com/user-attachments/assets/9a7e9f64-1741-413b-a634-0d1a55738d04)
 
-- **Register**
+- **Login**
 
-![Register](https://github.com/user-attachments/assets/2acdd241-0b4c-4df4-9fd6-bfb1df405de6)
+![Login](https://github.com/user-attachments/assets/7db42f7c-09ca-4c96-b874-f92aea913173)
+
 
 - **Home**
-![Home](https://github.com/user-attachments/assets/758ff22a-9d26-4e14-ad8c-1e97aa5474b7)
+![Home](https://github.com/user-attachments/assets/34330cb0-291a-4e2a-b498-5ca11f9f658d)
 
-- **Comment**
-![Comment](https://github.com/user-attachments/assets/0acf6488-ca03-448d-90a8-c274e498d12e)
+- **Booking**
+![Booking](https://github.com/user-attachments/assets/a5d8f070-b22c-4a7e-8065-1ec435b91133)
+![Booking](https://github.com/user-attachments/assets/9abaacce-180e-4c5c-8185-c39d2d4e0d78)
+![Booking](https://github.com/user-attachments/assets/2bf93b54-e55c-41bc-a63d-991ad551abae)
 
 - **Admin**
+![Login_admin](https://github.com/user-attachments/assets/aa681678-ee2d-4add-abbd-b66d13bca41a)
+![Home_admin](https://github.com/user-attachments/assets/5c7c5f83-60d0-4329-9a31-fcae792a3094)
+![User_manager](https://github.com/user-attachments/assets/3bdfe409-953d-42f7-bfdf-fd5550cbf335)
+![DetectiveProfile_manager](https://github.com/user-attachments/assets/217b91f4-9a39-435d-983d-5790302db10b)
+![Booking_quantity_users](https://github.com/user-attachments/assets/75e2f193-2bff-415b-b592-0cf0df14e4b5)
+![Information_of_user_and_respone](https://github.com/user-attachments/assets/5bec5d4d-ce82-4dcd-92c3-1a12be56f2f7)
 
-![Comment_Manager](https://github.com/user-attachments/assets/021af4d8-5bd2-4fe4-a7db-3feaa896752d)
-![Admin_Manager](https://github.com/user-attachments/assets/08fdac2d-efe9-46fd-b4b6-a5dd8dff2300)
+
+
+
+
 
 
 
